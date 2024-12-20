@@ -23,7 +23,7 @@ Email Spam Classification Application
 
 #🏃‍♂️ How to Run
 >Clone the repository:
-git clone https://github.com/AryaSwati321/AICTE_SpamEmailClassification_Project.git
+git clone https://github.com/Sociallypriya/AICTE_SpamEmailClassification.git
 
 >Navigate to the project directory:
 cd AICTE_SpamEmailClassification_Project
