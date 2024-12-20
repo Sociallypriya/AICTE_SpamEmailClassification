@@ -64,6 +64,6 @@ Thank U,for all the Contributions!
 This project is licensed under the AICTE License.
 
 👨‍💻 Author
-Arya Walse
-📧 aryaswati1907@gmail.com 
+Priya Kumari
+📧 sociallypriya@gmail.com 
 
